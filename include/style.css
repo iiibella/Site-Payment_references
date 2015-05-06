@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	size: 10px;
+}
+
+.table1{
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px black;
+}
+
+.td1, .th1 {
+	color: #94080b;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	border-radius: 10px;
+	padding: 3px;
+	left: 5px;
+}
+	
+input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	border-radius: 5px;
+	}
+
+hr
+{
+	background-color: #94080b;
+	border: 0;
+	height: 1px;
+	}
+
+.tableborder{
+	/*width: 250px;*/
+   border: 1px solid #94080b;
+}
+
+.letraHSBC{
+	font-size: 12px;
+}
+
+.letraChica{
+	font-size: 10px;
+}
+
+.box{
+	background:#94080b;
+	color:#fff; padding: 5px;
+	height: 60px;
+	width: 90%;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: auto;	
+	border-radius: 10px;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 25px;
+	padding: 10px;
+	box-shadow: 0px 0px 10px black;
+}
+
